@@ -8,7 +8,11 @@ Cursando Engenharia de Software no **Centro Universitário Alves Faria** 🎓
 
 ### 🚀 Tecnologias:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-3874BC?style=for-the-badge&logo=openjfx&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)
+![JPackage](https://img.shields.io/badge/JPackage-1E90FF?style=for-the-badge&logo=oracle&logoColor=white)
+![Launch4j](https://img.shields.io/badge/Launch4j-333333?style=for-the-badge&logo=windows&logoColor=white)
+
 ---
 
 💡 *"O código é como o café: quanto mais forte, melhor!"* ☕
